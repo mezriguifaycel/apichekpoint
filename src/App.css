@@ -1,0 +1,29 @@
+.detail{
+width: 350px;
+background-color: rgb(198, 238, 238);
+border-radius: 5px;
+border-color: aquamarine;
+text-align: center;
+color: rgb(8, 8, 14);
+}
+.App{
+background-color: blanchedalmond;
+width:250px ;
+height: 250px;
+border-radius: 5px;
+margin:30px ;
+border-color: black;
+text-align: center;
+color: rgb(8, 8, 14);
+}
+.App1{
+width:1250px ;
+border: 3px solid;
+border-radius: 5px;
+border-color: rgb(12, 164, 67);
+background-color: rgb(221, 226, 238);
+text-align: center;
+color: rgb(8, 8, 14);
+display: flex;
+flex-wrap: wrap;
+}
